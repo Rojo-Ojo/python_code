@@ -7,6 +7,3 @@
 ## Actividad 1
 - Programa 1
 - Programa 2
-
-Rojo-Ojo
-henry_qwerty@hotmail.com
