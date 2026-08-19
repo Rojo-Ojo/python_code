@@ -1,5 +1,5 @@
 # p008b-entrada-multiple.py
-# Entrada múltiple de valores en una sola linea con map
+# Entrada múltiple de valores en una sola linea con map.
 
 print("\033[2J\033[H", end="")
 
