@@ -4,7 +4,7 @@
 - Nombre : Luis Henry Villagrana Rojo
 - Correo : 28902527@uaz.edu.mx
 
-## Actividad 3 - Elementos básicos parte 1
+## Actividad 3 - Elementos Básicos parte 1
 - p001-hola-mundo.py
 - p002-area-circulo.py
 - p003-area-triangulo.py
@@ -15,7 +15,7 @@
 - p008-entrada-con-espacio.py
 - p008b-entrada-multiple
 
-## Actividad 4 - Elementos básicos parte 2
+## Actividad 4 - Elementos Básicos parte 2
 
 - p009-promedio-de-calificaciones.py 
 - p010-operaciones-matematicas.py 
@@ -24,7 +24,7 @@
 - p013-funciones-matematicas-precios.py 
 - p014-funciones-trigonometricas.py
 
-## Tarea 1 - Elementos básicos
+## Tarea 1 - Elementos Básicos
 
 - p015-hipotenusa-triangulo.py
 - p016-tercer-angulo.py
@@ -65,3 +65,14 @@
 - p041-aceptar-estudiante-v2.py
 - p042-precio-entrada-cine.py
 - p043-calculadora-anio-bisiesto.py 
+
+## Actividad 7 - Ejecución Repetitiva Parte 1
+
+- p044-conteo-ascendente.py
+- p045-conteo-ascendente-v2.py
+- p046-conteo-descendente.py
+- p047-conteo-descendente-v2.py
+- p048-multiplos-continue.py
+- p049-sumar-consecutivos.py
+- p050-conteo-numeros.py
+- p051-adivina-numero.py
