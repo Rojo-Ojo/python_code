@@ -197,3 +197,8 @@
 
 - p128-municipios.py
 - p129-operaciones-conjuntos.py
+
+## Tarea 7 - Conjuntos
+
+- p130-conjunto-personas.py
+- p131-conjunto-numeros.py
