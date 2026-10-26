@@ -202,3 +202,8 @@
 
 - p130-conjunto-personas.py
 - p131-conjunto-numeros.py
+
+## Actividad 19 - Tuplas
+
+- p132-coordenadas.py
+- p133-alumnos-tuplas.py
